@@ -1,2 +1,2 @@
 # Computational-NeuroScience
-This repository contains the assignments and material for the course
+This repository contains assignments and materials for the course
